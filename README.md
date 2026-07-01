@@ -200,10 +200,43 @@ jobs:
 
 <div align="center">
 
-| 🔭 Building | 🌱 Learning | 🎯 Goal |
-|:---:|:---:|:---:|
-| Production-grade full-stack apps | TypeScript, Docker, AWS | Full Stack Developer / SDE role |
-| Scalable MERN architectures | System Design fundamentals | Contributing to open source |
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🏗️<br/>Building
+
+<br/>
+
+![Full-Stack Apps](https://img.shields.io/badge/-Production--grade_full--stack_apps-1e293b?style=flat-square&labelColor=1e293b&color=6366f1)
+<br/><br/>
+![MERN](https://img.shields.io/badge/-Scalable_MERN_architectures-1e293b?style=flat-square&labelColor=1e293b&color=6366f1)
+
+</td>
+<td align="center" width="33%">
+
+### 🌱<br/>Learning
+
+<br/>
+
+![TypeScript Docker AWS](https://img.shields.io/badge/-TypeScript_%7C_Docker_%7C_AWS-1e293b?style=flat-square&labelColor=1e293b&color=22c55e)
+<br/><br/>
+![System Design](https://img.shields.io/badge/-System_Design_fundamentals-1e293b?style=flat-square&labelColor=1e293b&color=22c55e)
+
+</td>
+<td align="center" width="33%">
+
+### 🎯<br/>Goal
+
+<br/>
+
+![SDE Role](https://img.shields.io/badge/-Full_Stack_Developer_%2F_SDE_role-1e293b?style=flat-square&labelColor=1e293b&color=f59e0b)
+<br/><br/>
+![Open Source](https://img.shields.io/badge/-Contributing_to_open_source-1e293b?style=flat-square&labelColor=1e293b&color=f59e0b)
+
+</td>
+</tr>
+</table>
 
 </div>
 
