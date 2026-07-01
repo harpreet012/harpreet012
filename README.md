@@ -1,14 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=220&section=header&text=Harpreet%20Jakhar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20Developer%20%7C%20Software%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=200&section=header&text=Harpreet%20Jakhar&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20Developer%20%7C%20Software%20Developer&descAlignY=56&descSize=17&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=650&lines=Building+scalable+full-stack+web+applications;MERN+Stack+%7C+React.js+%7C+Node.js+%7C+MongoDB;Turning+ideas+into+clean%2C+production-ready+code;Always+learning+%E2%80%94+always+shipping." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=2800&pause=900&color=A5B4FC&center=true&vCenter=true&width=600&height=40&lines=Building+full-stack+web+applications;MERN+Stack+%E2%80%A2+React.js+%E2%80%A2+Node.js;Clean%2C+production-ready+code;Always+learning%2C+always+shipping." alt="Typing SVG" />
 </a>
 
-<br/><br/>
+<br/>
 
 <a href="https://www.linkedin.com/in/harpreet-jakhar-9b8398364/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/harpreet012"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -17,12 +15,10 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=harpreet012&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="profile views"/>
-<img src="https://img.shields.io/github/followers/harpreet012?label=Followers&style=for-the-badge&color=6366f1" alt="followers"/>
+<img src="https://komarev.com/ghpvc/?username=harpreet012&label=Profile%20Views&color=6366f1&style=flat-square" alt="profile views"/>
+<img src="https://img.shields.io/github/followers/harpreet012?label=Followers&style=flat-square&color=6366f1" alt="followers"/>
 
 </div>
-
-<br/>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
