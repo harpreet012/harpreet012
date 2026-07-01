@@ -28,23 +28,38 @@
 
 ## 🧑‍💻 About Me
 
-```javascript
-const harpreet = {
-    role: "Full Stack Developer (MERN)",
-    education: "B.Tech in Computer Science & Engineering, KR Mangalam University",
-    location: "India",
-    currentFocus: "Building production-grade full-stack applications & mastering System Design",
-    stackOfChoice: ["React.js", "Node.js", "Express.js", "MongoDB"],
-    funFact: "I ship UI redesigns until every pixel earns its place ✨",
-    motto: "Clean code today, scalable systems tomorrow."
-};
-```
+I'm a **Full Stack Developer** specializing in the **MERN stack**, currently pursuing my **B.Tech in Computer Science & Engineering** at **KR Mangalam University**. I enjoy building web applications end-to-end — from designing clean, responsive interfaces to architecting reliable backend systems and APIs.
 
-- 🎓 Currently pursuing my **B.Tech in Computer Science & Engineering** at **KR Mangalam University**
-- 💼 Focused on building **scalable, responsive, and production-ready** full-stack applications
-- 🌱 Deepening my expertise in **TypeScript, Docker, AWS**, and **System Design**
-- 🤝 Open to **Full Stack Developer / SDE** opportunities and collaborative open-source projects
-- ⚡ Fun fact: I genuinely enjoy debugging — it feels like solving a puzzle with a deadline
+My focus is on writing **production-ready code** and shipping UIs that feel polished rather than "good enough." I care about the details: consistent spacing, proper contrast, sensible component structure, and interfaces that hold up under real use.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🎓 Education**
+B.Tech in Computer Science & Engineering
+KR Mangalam University
+
+**💼 Focus Areas**
+Full-stack web development, scalable REST APIs, and clean, responsive UI engineering
+
+</td>
+<td width="50%" valign="top">
+
+**🌱 Currently Learning**
+TypeScript, Docker, AWS, and System Design fundamentals
+
+**🤝 Open To**
+Full Stack Developer / SDE roles and collaborative open-source contributions
+
+</td>
+</tr>
+</table>
+
+- 📌 Built and shipped multiple end-to-end MERN applications, from data models to deployed UI
+- 📌 Completed a Front-End Developer internship, delivering responsive, production UI features
+- 📌 Actively sharpening data structures & algorithms through regular practice on LeetCode
+- 📌 Iterates on UI/UX until it meets a professional, SaaS-grade design standard
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
@@ -117,19 +132,57 @@ const harpreet = {
 
 </div>
 
-### 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=harpreet012&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8" />
-</div>
-
 ### 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/harpreet012/harpreet012/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harpreet012/harpreet012/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harpreet012/harpreet012/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/harpreet012/harpreet012/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
 </div>
 
-> ⚙️ *The contribution snake requires the [platane/snk](https://github.com/Platane/snk) GitHub Action set up in your `harpreet012/harpreet012` repository to generate and commit this SVG automatically.*
+> ⚙️ **This is not active yet** — the image is broken because the `output` branch and the SVG files it points to don't exist in your `harpreet012/harpreet012` repo yet. To make it work:
+>
+> 1. In your `harpreet012/harpreet012` repository, go to **Actions → New workflow → set up a workflow yourself**.
+> 2. Name the file `.github/workflows/snake.yml` and paste this in:
+>
+> ```yaml
+> name: Generate Snake
+>
+> on:
+>   schedule:
+>     - cron: "0 0 * * *"   # runs once a day
+>   workflow_dispatch:       # lets you trigger it manually
+>   push:
+>     branches:
+>       - main
+>
+> jobs:
+>   generate:
+>     permissions:
+>       contents: write
+>     runs-on: ubuntu-latest
+>     steps:
+>       - uses: Platane/snk@v3
+>         id: snake-gif
+>         with:
+>           github_user_name: harpreet012
+>           outputs: |
+>             dist/github-contribution-grid-snake.svg
+>             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+>       - uses: crazy-max/ghaction-github-pages@v4
+>         with:
+>           target_branch: output
+>           build_dir: dist
+>         env:
+>           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+> ```
+>
+> 3. Commit the workflow, then run it once manually from the **Actions** tab (**Run workflow**) instead of waiting for the daily schedule.
+> 4. Once it finishes, it will auto-create the `output` branch with the SVG files above, and the snake will render correctly here.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
