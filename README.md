@@ -142,47 +142,57 @@ Full Stack Developer / SDE roles and collaborative open-source contributions
   <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/harpreet012/harpreet012/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
 
-</div>
+*My GitHub contribution graph, eaten one square at a time — updates automatically every day.*
 
-> ⚙️ **This is not active yet** — the image is broken because the `output` branch and the SVG files it points to don't exist in your `harpreet012/harpreet012` repo yet. To make it work:
->
-> 1. In your `harpreet012/harpreet012` repository, go to **Actions → New workflow → set up a workflow yourself**.
-> 2. Name the file `.github/workflows/snake.yml` and paste this in:
->
-> ```yaml
-> name: Generate Snake
->
-> on:
->   schedule:
->     - cron: "0 0 * * *"   # runs once a day
->   workflow_dispatch:       # lets you trigger it manually
->   push:
->     branches:
->       - main
->
-> jobs:
->   generate:
->     permissions:
->       contents: write
->     runs-on: ubuntu-latest
->     steps:
->       - uses: Platane/snk@v3
->         id: snake-gif
->         with:
->           github_user_name: harpreet012
->           outputs: |
->             dist/github-contribution-grid-snake.svg
->             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
->       - uses: crazy-max/ghaction-github-pages@v4
->         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
->
-> 3. Commit the workflow, then run it once manually from the **Actions** tab (**Run workflow**) instead of waiting for the daily schedule.
-> 4. Once it finishes, it will auto-create the `output` branch with the SVG files above, and the snake will render correctly here.
+<br/>
+
+<details>
+<summary><b>⚙️ One-time setup (click to expand)</b></summary>
+<br/>
+
+This animation is powered by <a href="https://github.com/Platane/snk">Platane/snk</a> and needs a single GitHub Action to generate it. Add this workflow once and it regenerates itself daily — no maintenance after that.
+
+**1.** In this repository, go to **Actions → New workflow → set up a workflow yourself**, name it `.github/workflows/snake.yml`, and paste:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        id: snake-gif
+        with:
+          github_user_name: harpreet012
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+**2.** Commit it to `main`, then open the **Actions** tab and click **Run workflow** once to trigger it immediately.
+
+**3.** Within a minute, it creates an `output` branch with the SVGs above — the snake will then render correctly and refresh automatically every day.
+
+</details>
+
+</div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
