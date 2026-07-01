@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=200&section=header&text=Harpreet%20Jakhar&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20Developer%20%7C%20Software%20Developer&descAlignY=56&descSize=17&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=2800&pause=900&color=A5B4FC&center=true&vCenter=true&width=600&height=40&lines=Building+full-stack+web+applications;MERN+Stack+%E2%80%A2+React.js+%E2%80%A2+Node.js;Clean%2C+production-ready+code;Always+learning%2C+always+shipping." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=24&duration=2800&pause=900&color=C7D2FE&center=true&vCenter=true&width=650&height=45&lines=Building+full-stack+web+applications;MERN+Stack+%E2%80%A2+React.js+%E2%80%A2+Node.js;Clean%2C+production-ready+code;Always+learning%2C+always+shipping." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -22,7 +22,7 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## 🧑‍💻 About Me
+<h2 align="center">🧑‍💻&nbsp;<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=700&size=30&pause=1000&color=E2E8F0&center=true&vCenter=true&repeat=false&width=260&height=45&lines=About+Me" alt="About Me"/></h2>
 
 I'm a **Full Stack Developer** specializing in the **MERN stack**, currently pursuing my **B.Tech in Computer Science & Engineering** at **KR Mangalam University**. I enjoy building web applications end-to-end — from designing clean, responsive interfaces to architecting reliable backend systems and APIs.
 
@@ -59,7 +59,7 @@ Full Stack Developer / SDE roles and collaborative open-source contributions
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## 🛠️ Tech Stack
+<h2 align="center">🛠️&nbsp;<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=700&size=30&pause=1000&color=E2E8F0&center=true&vCenter=true&repeat=false&width=300&height=45&lines=Tech+Stack" alt="Tech Stack"/></h2>
 
 <div align="center">
 
@@ -98,7 +98,7 @@ Full Stack Developer / SDE roles and collaborative open-source contributions
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## 🚀 Featured Projects
+<h2 align="center">🚀&nbsp;<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=700&size=30&pause=1000&color=E2E8F0&center=true&vCenter=true&repeat=false&width=460&height=45&lines=Featured+Projects" alt="Featured Projects"/></h2>
 
 <div align="center">
 
@@ -115,7 +115,7 @@ Full Stack Developer / SDE roles and collaborative open-source contributions
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## 📊 GitHub Analytics
+<h2 align="center">📊&nbsp;<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=700&size=30&pause=1000&color=E2E8F0&center=true&vCenter=true&repeat=false&width=420&height=45&lines=GitHub+Analytics" alt="GitHub Analytics"/></h2>
 
 <div align="center">
 
@@ -128,7 +128,7 @@ Full Stack Developer / SDE roles and collaborative open-source contributions
 
 </div>
 
-### 🐍 Contribution Snake
+<h3 align="center">🐍&nbsp;<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=700&size=26&pause=1000&color=E2E8F0&center=true&vCenter=true&repeat=false&width=420&height=40&lines=Contribution+Snake" alt="Contribution Snake"/></h3>
 
 <div align="center">
 
@@ -192,7 +192,7 @@ jobs:
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## 🎯 Current Focus
+<h2 align="center">🎯&nbsp;<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=700&size=30&pause=1000&color=E2E8F0&center=true&vCenter=true&repeat=false&width=340&height=45&lines=Current+Focus" alt="Current Focus"/></h2>
 
 <div align="center">
 
@@ -236,11 +236,11 @@ jobs:
 
 </div>
 
-## 🌍 Open Source
+<h2 align="center">🌍&nbsp;<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=700&size=30&pause=1000&color=E2E8F0&center=true&vCenter=true&repeat=false&width=300&height=45&lines=Open+Source" alt="Open Source"/></h2>
 
 I'm actively working toward contributing to open-source projects in the **React** and **Node.js** ecosystems. If you're maintaining a beginner-friendly repository or looking for a collaborator, feel free to reach out — always happy to learn by building alongside others.
 
-## 🎖️ Achievements
+<h2 align="center">🎖️&nbsp;<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=700&size=30&pause=1000&color=E2E8F0&center=true&vCenter=true&repeat=false&width=320&height=45&lines=Achievements" alt="Achievements"/></h2>
 
 - ✅ Completed a **Front-End Developer Internship**, building and shipping real-world responsive UI features
 - ✅ Designed and deployed multiple **end-to-end MERN stack applications**
@@ -251,14 +251,15 @@ I'm actively working toward contributing to open-source projects in the **React*
 
 <div align="center">
 
-## 💬 Quote
+<h2 align="center">💬&nbsp;<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=700&size=30&pause=1000&color=E2E8F0&center=true&vCenter=true&repeat=false&width=150&height=45&lines=Quote" alt="Quote"/></h2>
 
-> *"First, solve the problem. Then, write the code."*
-> — **John Johnson**
+<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&size=26&duration=3500&pause=2000&color=C7D2FE&center=true&vCenter=true&repeat=true&width=680&height=55&lines=%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22" alt="quote"/>
+
+<sub>— <b>John Johnson</b></sub>
 
 <br/>
 
-## 📫 Let's Connect
+<h2 align="center">📫&nbsp;<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=700&size=30&pause=1000&color=E2E8F0&center=true&vCenter=true&repeat=false&width=340&height=45&lines=Let%27s+Connect" alt="Let's Connect"/></h2>
 
 <a href="https://www.linkedin.com/in/harpreet-jakhar-9b8398364/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/harpreet012"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
